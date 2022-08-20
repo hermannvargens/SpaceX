@@ -1,11 +1,11 @@
 # Import required libraries
-import pandas as pd
-import dash
-from dash import html
-from dash import dcc
-from dash.dependencies import Input, Output
-import plotly.express as px
-import wget
+#import pandas as pd
+#import dash
+#from dash import html
+#from dash import dcc
+#from dash.dependencies import Input, Output
+#import plotly.express as px
+#import wget
 
 #download csv file
 wget.download('https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/datasets/spacex_launch_dash.csv')

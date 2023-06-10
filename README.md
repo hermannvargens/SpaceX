@@ -31,7 +31,16 @@ Objectives:
 Objectives:
 - Perform more interactive visual analytics using Folium.
 
-7. [SpaceX Launch Records Dashboard](https://github.com/hermannvargens/SpaceX/blob/main/spacex_launch_dash.csv)
+7. [SpaceX Launch Records Dashboard](https://github.com/hermannvargens/SpaceX/blob/main/lab_theia_plotly_dash.ipynb)
+Objectives:
+- Visualize data in SpaceX Launch Records Dashboard, using Plotly.
 
 8. [Predicting wheter a Space Rocket will land successfully or not](https://github.com/hermannvargens/SpaceX/blob/main/jupyter-labs-webscraping.ipynb)
+Objectives:
+-Perform exploratory Data Analysis and determine Training Labels:
+--create a column for the class
+--Standardize the data
+--Split into training data and test data
+-Find best Hyperparameter for SVM, Classification Trees and Logistic Regression
+-Find the method performs best using test data
 

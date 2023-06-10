@@ -17,21 +17,21 @@ Objectives:
 3. [Data Wrangling](https://github.com/hermannvargens/SpaceX/blob/main/labs-jupyter-spacex-Data%20wrangling.ipynb)  
 
 Objectives:  
--Perform a short Exploratory Data Analysis;  
--Determine Training Labels.  
+- Perform a short Exploratory Data Analysis;  
+- Determine Training Labels.  
 
 4. [Exploratory Data Analysis with SQL](https://github.com/hermannvargens/SpaceX/blob/main/jupyter-labs-eda-sql-coursera.ipynb)  
 
 Objectives:  
--Understand the Spacex DataSet;  
--Load the dataset into the corresponding table in a Db2 database;  
--Execute SQL queries to answer assignment questions.  
+- Understand the Spacex DataSet;  
+- Load the dataset into the corresponding table in a Db2 database;  
+- Execute SQL queries to answer assignment questions.  
 
 5. [Exploratory Data Analysis with Visualization](https://github.com/hermannvargens/SpaceX/blob/main/jupyter-labs-eda-dataviz.ipynb)  
 
 Objectives:  
--Exploratory Data Analysis using Pandas, Matplotlib and Seaborn;  
--Preparing Data Feature Engineering.  
+- Exploratory Data Analysis using Pandas, Matplotlib and Seaborn;  
+- Preparing Data Feature Engineering.  
 
 6. [Launch Sites Locations Analysis with Folium](https://github.com/hermannvargens/SpaceX/blob/main/lab_jupyter_launch_site_location.ipynb)  
 

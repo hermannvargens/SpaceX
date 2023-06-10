@@ -35,7 +35,7 @@ Objectives:
 Objectives:
 - Visualize data in SpaceX Launch Records Dashboard, using Plotly.
 
-8. [Predicting wheter a Space Rocket will land successfully or not](https://github.com/hermannvargens/SpaceX/blob/main/jupyter-labs-webscraping.ipynb)
+8. [Predicting wheter a Space Rocket will land successfully or not](https://github.com/hermannvargens/SpaceX/blob/main/jupyter-labs-webscraping.ipynb)  
 Objectives:  
 - Perform exploratory Data Analysis and determine Training Labels:  
   - create a column for the class;  
